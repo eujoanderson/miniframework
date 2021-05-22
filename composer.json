@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Joanderson",
+            "email": "joandersonsantossouza09@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\": "vendor/MF/"
+        }
+    }
+}
